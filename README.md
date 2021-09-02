@@ -8,4 +8,8 @@
 2. MCI to VCE(Venice, Italy)
     1. Direct Flight
     2. Connecting Flight (Maryville to Los Angeles and Los Angeles to Venice)
-
+## List of items that should be brought to your favorite place for maximum enjoyment
+* Umbrella
+* Camera
+* Sun Glasses
+* Paper Boats
