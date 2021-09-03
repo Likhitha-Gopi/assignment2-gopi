@@ -13,3 +13,5 @@
 * Camera
 * Sun Glasses
 * Paper Boats
+
+[Click here to see About Me](./AboutMe.md)
