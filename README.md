@@ -15,3 +15,13 @@
 * Paper Boats
 
 [Click here to see About Me](./AboutMe.md)
+****
+The below are the list of Food/drinks I would recommed to try !!
+| Item | Location | Cost |
+|------|----------|------|
+| Chiken Supreme Pizza | Pizza Hut | $10 |
+| CheeseBurger | McDonalds | $2 |
+| Hot Choclate | StarBucks | $3.45 |
+| Choclate Milkshake | Mooyah | $4 |
+
+
