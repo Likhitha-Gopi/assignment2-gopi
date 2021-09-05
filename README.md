@@ -25,4 +25,9 @@ The below are the list of Food/drinks I would recommed to try !!
 | Hot Choclate | StarBucks | $3.45 |
 | Choclate Milkshake | Mooyah | $4 |
 
+****
+## Pithy Quotes
+> "Feed your Faith and starve your doubts."  *-Billy Cox*
+
+> "Turn your scars into Stars." *-Robert H. Schuller*
 
